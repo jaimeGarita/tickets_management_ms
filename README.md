@@ -24,6 +24,7 @@ To start working on this project, you need to download the microservices from th
 - [user_management_ms](https://github.com/jaimeGarita/user_management)
 - [common](https://github.com/jaimeGarita/common)
 - [serder](https://github.com/jaimeGarita/serder)
+- [gateway_ms](https://github.com/jaimeGarita/gateway_ms)
 
 ## Execution Instructions
 
